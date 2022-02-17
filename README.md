@@ -1,10 +1,8 @@
 <div align="center">
- 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7B31C&center=true&vCenter=true&lines=🍩+🍩+🍩+🍩;Let's+Code+👩🏻‍💻)](https://git.io/typing-svg) -->
 
 # **Eric Martin**
  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EMtheDM.visitor-badge&left_color=orange&right_color=blue&left_text=Visitors)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EMtheDM.visitor-badge&left_color=orange&right_color=blue&left_text=Visitors) -->
 
 #### Location: Denver, Colorado, USA | Phone: 919-272-2201 | Email: eric_martin@me.com
  

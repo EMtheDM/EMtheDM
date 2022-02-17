@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color:black">
 
 # **Eric Martin**
  

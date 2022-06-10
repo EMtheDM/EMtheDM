@@ -6,9 +6,9 @@
 
 #### Location: Denver, Colorado, USA | Phone: 919-272-2201 | Email: eric_martin@me.com
 
-<a href="https://emthedm.github.io/REACT-Portfolio/" target="_blank" alt="Github Portfolio"><img src="https://img.shields.io/badge/-Portfolio-708090?logo=GitHub"></a>
-<a href="https://www.linkedin.com/in/emthedm/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn"></a>
-<a href="mailto:codinglaurel@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/-iCloud-3693F3?logo=icloud&logoColor=white"></a>
+<a href="https://emthedm.github.io/REACT-Portfolio/" target="_blank" alt="Github Portfolio"><img src="https://img.shields.io/badge/-Portfolio-708090?style=for-the-badge&logo=GitHub"></a>
+<a href="https://www.linkedin.com/in/emthedm/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn"></a>
+<a href="mailto:codinglaurel@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/-iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+Welcome+to+my+page!)](https://git.io/typing-svg)
 
@@ -20,7 +20,7 @@ I am a full stack developer, filmmaker, and pastor. I recently graduated from a 
 
 ## Currently Learning:
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFE873) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=f89820)
 
 ## Technology:
 

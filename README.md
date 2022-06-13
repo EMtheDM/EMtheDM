@@ -27,7 +27,7 @@ I am a full stack developer, filmmaker, and pastor. I recently graduated from a 
 <details open>
  <summary>Languages:</summary>
 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Node](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge&logo=graphql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Node](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 
 </details>
 

@@ -4,7 +4,7 @@
 
 #### Location: Frederick, Colorado
 
-<a href="https://www.linkedin.com/in/emthedm/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn"></a>
+<a href="https://www.linkedin.com/in/ericmartinco/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn"></a>
 <a href="mailto:eric_martin@me.com" target="_blank" alt="iCloud"><img src="https://img.shields.io/badge/-iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white"></a>
 
 ## About Me:

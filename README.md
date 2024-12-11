@@ -13,7 +13,7 @@ I am a full stack developer specializing in Automation. I graduated from the Uni
 
 ## Known Languages:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFE873) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFE873) ![C++]([https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 
 
 ## Operating Systems:
@@ -24,4 +24,4 @@ I am a full stack developer specializing in Automation. I graduated from the Uni
 
 ## What's Next:
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff) ![C#](https://custom-icon-badges.herokuapp.com/badge/C%23-68217A?style=for-the-badge&logo=cs2&logoColor=fff) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![C#](https://custom-icon-badges.herokuapp.com/badge/C%23-68217A?style=for-the-badge&logo=cs2&logoColor=fff) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
